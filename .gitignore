@@ -1,0 +1,32 @@
+﻿# Generated dependencies and caches
+node_modules/
+__pycache__/
+.DS_Store
+~$*
+
+# Build and binary outputs
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+*.class
+*.pyc
+
+# Toolchains and archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Local simulator/application bundles
+Ripes-*/
+
+# Regenerable rendered assets
+rendered/
+rendered_modified/
+output/
